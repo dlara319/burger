@@ -1,6 +1,3 @@
-/*
-Here is where you make the connection to the database and export and used by the O.R.M.
-*/
 var mysql = require('mysql');
 
 var source = {
